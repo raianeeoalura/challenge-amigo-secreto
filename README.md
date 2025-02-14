@@ -28,11 +28,10 @@
 Neste desafio, desenvolvi uma aplicação que permite aos usuários inserir nomes de amigos em uma lista para, em seguida, realizar um sorteio aleatório e determinar quem é o "amigo secreto".
 
 <!-- DEMO DA APLICAÇÃO -->
-<img src="./assets/demo-challenge-amigo-secreto-alura.git" />
-
 <p align="center">
-  Demo da aplicação
+  <img src="./assets/demo-challenge-amigo-secreto-alura.gif" width="1000" />
 </p>
+<p align="center">Demo da aplicação</p>
 
 ## ⚙️ Como rodar
 
